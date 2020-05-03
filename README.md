@@ -16,7 +16,7 @@
      
 3.   Ransom Note
      Solved using dictionary or HashMap <br/>
-     Reason - Need to store count of occurence of characters
-     https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/
+     Reason - Need to store count of occurence of characters <br/>
+     https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/ <br/>
      Time Complexity - O(n)
 
