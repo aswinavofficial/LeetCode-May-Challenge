@@ -19,10 +19,19 @@
      Reason - Need to store count of occurence of characters <br/>
      https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/ <br/>
      Time Complexity - O(n)
-     
-4.   First Unique Character in a String
-     Solved using ordered dictionary
-     Reason we need to store frequency of occurence of characters and order is important.
-     https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/
+ 
+ 4.  Number Complement  <br/>
+     Solved using bit manipulation <br/>
+     Reason - Efficient way to find complement <br/>
+     https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/ <br/>
+     https://www.geeksforgeeks.org/bits-manipulation-important-tactics/ <br/>
+     Time Complexity - O(1)
+
+ 
+ 
+5.   First Unique Character in a String
+     Solved using ordered dictionary <br/>
+     Reason we need to store frequency of occurence of characters and order is important.<br/>
+     https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/ <br/>
      Time Complexity - O(n)
 
