@@ -2,16 +2,16 @@
 
 1.   First Bad Version <br />
      Solved using binary search <br />
-     Reason - Binary search lookup is O(log(n)) whereas linear search lookup is O(n)
+     Reason - Binary search lookup is O(log(n)) whereas linear search lookup is O(n) <br />
      https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/  <br />
      https://www.geeksforgeeks.org/binary-search/  <br />
      Time Complexity - O(log(n))
      
-2.   Jewels and Stones
+2.   Jewels and Stones <br />
      Solved using sets <br/>
-     Reason - Lookup in sets is O(1)
+     Reason - Lookup in sets is O(1) <br/>
      https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/ <br/>
-     https://www.geeksforgeeks.org/sets-in-python/
+     https://www.geeksforgeeks.org/sets-in-python/ <br />
      Time Complexity - O(n)
      
 3.   Ransom Note
@@ -29,7 +29,7 @@
 
  
  
-5.   First Unique Character in a String
+5.   First Unique Character in a String <br />
      Solved using ordered dictionary <br/>
      Reason we need to store frequency of occurence of characters and order is important.<br/>
      https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/ <br/>
