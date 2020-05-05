@@ -19,4 +19,10 @@
      Reason - Need to store count of occurence of characters <br/>
      https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/ <br/>
      Time Complexity - O(n)
+     
+4.   First Unique Character in a String
+     Solved using ordered dictionary
+     Reason we need to store frequency of occurence of characters and order is important.
+     https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/
+     Time Complexity - O(n)
 
