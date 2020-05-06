@@ -34,4 +34,9 @@
      Reason we need to store frequency of occurence of characters and order is important.<br/>
      https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/ <br/>
      Time Complexity - O(n)
+     
+6.   Majority Element <br />
+     Solved using dictionary <br/>
+     https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/ <br />
+     Time Complexity - O(n)
 
